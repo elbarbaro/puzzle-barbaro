@@ -29,6 +29,23 @@
 	background-color: #5214ff;
 }
 
+#dialog {
+	position: absolute;
+	width: 50%;
+	height: 40%;
+	background-color: white;
+	display: none;
+}
+
+.dialog-show {
+	display: block;
+}
+
+
+
+
+
+
 
 
 
